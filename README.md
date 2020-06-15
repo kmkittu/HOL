@@ -33,7 +33,7 @@ Resource Manager is an Oracle Cloud Infrastructure service that allows you to au
 
 ### Step 1: Login and Create Stack using Resource Manager
 1.	Click on the link below to download the Resource Manager zip file you need to build your enviornment.
-o	 [Download VCN_Creation.zip](https://github.com/kmkittu/HOL/blob/master/code/VCN_Creation.zip) - Packaged terraform VCN creation script. 
+o	 [Download VCN_Creation.zip](https://github.com/kmkittu/HOL/raw/master/code/VCN_Creation.zip) - Packaged terraform VCN creation script. 
 
 2.	Save in your downloads folder.
 
@@ -136,7 +136,7 @@ Click HOL_VCN and observe all networking components including subnets.
 In this lab we will create a Compute Linux VM instance on the VCN that we have created in Lab1.
 
 1.	Click on the link below to download the Resource Manager zip file you need to build your enviornment.
-o	 [Download Compute_Instance.zip](https://github.com/kmkittu/HOL/blob/master/code/Compute_Instance.zip) - Packaged terraform VCN creation script. 
+o	 [Download Compute_Instance.zip](https://github.com/kmkittu/HOL/raw/master/code/Compute_Instance.zip) - Packaged terraform VCN creation script. 
 
 2.	Save in your downloads folder.
 
@@ -221,7 +221,7 @@ Click the created instances and check the details
 In this lab we will create a Compute Linux VM instance on the VCN that we have created in Lab1.
 
 1.	Click on the link below to download the Resource Manager zip file you need to build your enviornment.
-o	 [Download DBSystem.zip](https://github.com/kmkittu/HOL/blob/master/code/DBSystem.zip) - Packaged terraform VCN creation script. 
+o	 [Download DBSystem.zip](https://github.com/kmkittu/HOL/raw/master/code/DBSystem.zip) - Packaged terraform VCN creation script. 
 
 2.	Save in your downloads folder.
 
